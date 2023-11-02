@@ -1,3 +1,4 @@
 django
 virtualenv
 pre-commit
+django-allauth
